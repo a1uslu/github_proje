@@ -13,7 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Merhaba Herkese")
-        
+        print("commit denemesi 1")
+        print ("commit denemsi2")
     }
 
 
